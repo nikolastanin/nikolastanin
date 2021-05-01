@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikolastanin
-- 👀 I’m interested in making interesting and functional web sites and web apps. 
+- 👀 I’m interested in making functional and good looking web sites and web apps :)
 - 📫 Find me on instagram @nidzosss 
   :) 
 
