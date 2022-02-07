@@ -1,5 +1,6 @@
 - 👋Hi!
-My name is Nikola, I'm a student of Informatics and this is my GitHub page where I'm documenting <b> projects</b> that I am making while <b>sharpening and improving</b> my skills as an ambitious learner in the field of <b>Web Development</b>.
+My name is Nikola, I'm a student of Informatics 
+and this is my GitHub page where I'm documenting <b> projects</b> that I am making while <b>sharpening and improving</b> my skills as an ambitious learner in the field of <b>Web Development</b>.
 
 - 📫 Find me on instagram @nidzosss 
   :) 
