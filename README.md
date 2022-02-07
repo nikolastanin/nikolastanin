@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @nikolastanin
-- 👀 I’m interested in making functional and good looking web sites and web apps :)
+- 👋Hi!
+My name is Nikola, I'm a student in Informatics and this is my GitHub page
+where I'm documenting <b> projects</b> that I am making while sharpening and improving my skills
+as an ambitious learner in the field of Web Development.
+
 - 📫 Find me on instagram @nidzosss 
   :) 
 
