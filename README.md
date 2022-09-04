@@ -1,5 +1,5 @@
 - 👋Hi!
-My name is Nikola, a Frontend dev at NDC-Media & student of Informatics.
+My name is Nikola, a Frontend dev at NDC-Media & student of Informatics. <br>
 This is my GitHub page where I'm documenting <b> projects</b> that I am making while <b>sharpening and improving</b> my skills as an ambitious learner in the field of <b>Web Development</b>.
 
 - 📫 Find me on instagram @nidzosss 
