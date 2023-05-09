@@ -4,7 +4,7 @@ This is my GitHub page where I'm documenting <b> projects</b> that I am making w
 
 - 📫 Find me on :
 - LinkedIn : https://www.linkedin.com/in/nikola-stanin-99b2031bb/
-- Instagram @nidzosss 
+- Instagram @nikola_stanin 
  
   :) 
 
