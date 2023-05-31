@@ -1,14 +1,1 @@
-- 👋Hi!
-My name is Nikola, a Frontend developer at GDC-Development part of Gambling.com group.
-This is my GitHub page where I'm documenting <b> projects</b> that I am making while sharpening and improving my skills as an ambitious learner in the field of <b>Web Development</b>.
-
-- 📫 Find me on :
-- LinkedIn : https://www.linkedin.com/in/nikola-stanin-99b2031bb/
-- Instagram @nikola_stanin 
- 
-  :) 
-
-<!---
-nikolastanin/nikolastanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I'm Nikola! 👋</h1><p>I'm a WordPress/PHP developer workingat GDC-Developmen - branch of the Gambling.com group.<br> I have a great passion for coding, learning new and interesting stuff, and enjoy working with PHP, JavaScript, SASS (SCSS), WordPress CMS, and HTML.</p><h2>Find me on:</h2><ul><li>LinkedIn: <a href="https://www.linkedin.com/in/nikola-stanin-99b2031bb/" target="_new">Nikola Stanin</a></li><li>Instagram: <a href="https://www.instagram.com/nikola_stanin/" target="_new">@nikola_stanin</a></li></ul><p>Feel free to connect with me on these platforms! 😊</p>
