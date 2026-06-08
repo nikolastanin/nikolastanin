@@ -3,6 +3,6 @@
 <h2>Some of my latest projects and collaborations:</h2>
 
 <ul>
-<li><a href="https://gamblexity.com/">Gamblexity</a></li>
+<li><a rel="follow" href="https://gamblexity.com/">Gamblexity</a></li>
   
 </ul>
