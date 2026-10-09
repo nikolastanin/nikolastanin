@@ -5,7 +5,7 @@
 <ul>
 <li><a rel="follow" href="https://gamblexity.com/">Gamblexity</a>
 </li>
-<li><a rel="follow" href="https://gamblexity.com/](https://online-casinos.notion.site/best-online-casinos-uk<)">My list of best online casinos in the UK</a>
+<li><a rel="follow" href="https://online-casinos.notion.site/best-online-casinos-uk">My list of best online casinos in the UK</a>
 </li>
   
 </ul>
